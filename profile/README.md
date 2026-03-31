@@ -6,3 +6,5 @@ You will find here all my projects.
 📨 [E-Mail](mailto:louis.normand@outlook.com)
 
 💼 [LinkedIn](https://www.linkedin.com/in/louis-normand-15161a170/)
+
+📃 [Resume](https://luyys-org.github.io/LouisNmd.github.io/)
